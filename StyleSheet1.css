@@ -1,0 +1,39 @@
+﻿
+*{
+    margin:0px;
+}
+
+
+.header {
+    text-align:center;
+    background-color:powderblue;
+    color:forestgreen;
+    padding:10px;
+}
+
+.input {
+    background-color:seagreen;
+    color: white;
+    padding:10px
+    
+    
+}
+
+
+.left {
+    float: left;
+    padding-left:35%;
+    font-size: 15px; /* Adjust the font size as needed */
+    border: 1px solid #ccc; /* Add a border */
+    color: red; /* Text color */
+    border-rad ius: 5px; /* Add rounded corners */
+}
+.right {
+    float: right;
+    padding-right: 150px;
+    font-size: 15px; /* Adjust the font size as needed */
+    border: 1px solid #ccc; /* Add a border */
+    color: dodgerblue; /* Text color */
+    border-radius: 5px; /* Add rounded corners */  
+    position:fixed;
+}
